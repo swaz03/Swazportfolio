@@ -43,3 +43,44 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+
+
+### 🛠️ **My Projects**
+
+#### [First Trust Chatbot Insurance Advisor](https://www.youtube.com/watch?v=lmL8vLsJvak)  
+- A **generative AI-powered chatbot** that offers personalized **insurance policy recommendations** based on user responses.  
+- Utilizes **NLP** to analyze user inputs and suggest policies like **Mechanical Breakdown Insurance (MBI)**, **Comprehensive Car Insurance**, and **Third Party Car Insurance**.  
+- Built with **Node.js**, **React.js**, and **OpenAI API** for a seamless conversational experience.  
+
+#### Demo Video:  
+[![Demo Video](https://img.youtube.com/vi/lmL8vLsJvak/0.jpg)](https://www.youtube.com/watch?v=lmL8vLsJvak)  
+
+Click the image above to watch the demo video on YouTube.
+
+---
+
+#### 🚗 **[Turners Vehicle Recognition AI](https://github.com/your-username/Turners-Vehicle-AI)**  
+- **Description:** A cloud-based AI prototype to identify vehicle types from images, streamlining insurance premium calculations.  
+- **Technologies:** Azure Custom Vision, Node.js, Express, MySQL  
+- **Achievements:** Enhanced insurance processes by introducing AI automation.
+
+#### Demo Video:  
+[![Turners Vehicle Recognition AI Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)  
+
+---
+
+#### 🗺️ **[Z Station Finder](https://github.com/your-username/Z-Station-Finder)**  
+- **Description:** A location-based app to locate the nearest fuel stations with filters for fuel types, services, and station categories.  
+- **Key Features:** Interactive map integration for real-time search results and navigation.
+
+#### Demo Video:  
+[![Z Station Finder Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)  
+
+---
+
+#### 💡 **[Mock Interview AI](https://github.com/your-username/Mock-Interview-AI)**  
+- **Description:** An AI-powered platform leveraging the **Google Gemini API** to simulate mock interviews and generate dynamic follow-up questions based on user responses.  
+- **Technologies:** React.js, Node.js, Google Gemini API  
+
+#### Demo Video:  
+[![Mock Interview AI Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)  
