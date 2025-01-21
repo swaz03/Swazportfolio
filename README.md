@@ -85,4 +85,5 @@ Click the image above to watch the demo video on YouTube.
 - **Technologies:** React.js, Node.js, Google Gemini API  
 
 #### Demo Video:  
-[![Mock Interview AI Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)  
+[![Mock Interview AI Video](https://img.youtube.com/vi/eikwF9zzztc/0.jpg)](https://youtu.be/eikwF9zzztc)
+
