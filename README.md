@@ -80,7 +80,7 @@ Click the image above to watch the demo video on YouTube.
 
 ---
 
-#### 💡 **[Mock Interview AI](https://github.com/your-username/Mock-Interview-AI)**  
+#### 💡 **[Mock Interview AI](https://github.com/swaz03/Mock-Interviewer-AI.git)**  
 - **Description:** An AI-powered platform leveraging the **Google Gemini API** to simulate mock interviews and generate dynamic follow-up questions based on user responses.  
 - **Technologies:** React.js, Node.js, Google Gemini API  
 
