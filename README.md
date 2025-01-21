@@ -58,7 +58,7 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 Click the image above to watch the demo video on YouTube.
 
 ---
-#### 🚗 **[Turners Vehicle Recognition AI](https://github.com/your-username/Turners-Vehicle-AI)**  
+#### 🚗 **[Turners Vehicle Recognition AI](https://github.com/swaz03/Vehicle-Recognition-AI.git)**  
 - **Description:** A cloud-based AI prototype to identify vehicle types from images, streamlining insurance premium calculations.  
 - **Technologies:** Azure Custom Vision, Node.js, Express, MySQL  
 - **Achievements:** Enhanced insurance processes by introducing AI automation.
