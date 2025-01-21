@@ -47,7 +47,7 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 
 ### 🛠️ **My Projects**
 
-#### [First Trust Chatbot Insurance Advisor](https://www.youtube.com/watch?v=lmL8vLsJvak)  
+#### [First Trust Chatbot Insurance Advisor](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git)  
 - A **generative AI-powered chatbot** that offers personalized **insurance policy recommendations** based on user responses.  
 - Utilizes **NLP** to analyze user inputs and suggest policies like **Mechanical Breakdown Insurance (MBI)**, **Comprehensive Car Insurance**, and **Third Party Car Insurance**.  
 - Built with **Node.js**, **React.js**, and **OpenAI API** for a seamless conversational experience.  
