@@ -1,8 +1,9 @@
 ## Hey 👋, I'm Swaroop
 
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/swaroop-chandrashekar-93908b219/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/swaroop-chandrashekar-93908b219/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://twitter.com/thomasSwar73584" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a href='https://www.kaggle.com/swaz03/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/swaz03/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="28px" style="margin-right: 5px;"/>
+</a>
 
 I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an enthusiast exploring AI technologies 🤖. I enjoy diving into new tech stacks and building solutions that make an impact. Currently, I am working on cloud-based AI projects and refining my skills in Node.js and React.
 
@@ -14,7 +15,7 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **AI chatbot for insurance company**.
-- 🤝 &nbsp; I’m looking to collaborate on [AI-based Insurance Applications](https://github.com/Swaroop98/AI-Insurance).
+- 🤝 &nbsp; I’m looking to collaborate on [AI-based Insurance Applications](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git).
 - 🌱 &nbsp; I’m currently learning **Typescript** and **Cloud-based AI** technologies.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/Swaz03).
 - 🎨 &nbsp; Using [Figma](https://www.figma.com/) and [Storyset](https://storyset.com/) for designing UI/UX.
@@ -45,7 +46,7 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 
-### 🛠️ **My Projects**
+🛠️ **My Projects**
 
 #### [FirstTrust Chatbot Insurance Advisor](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git)  
 - A **generative AI-powered chatbot** that offers personalized **insurance policy recommendations** based on user responses.  
@@ -72,8 +73,21 @@ Click the image above to watch the demo video on YouTube.
 ---
 
 #### 🗺️ **[Z Station Finder](https://github.com/your-username/Z-Station-Finder)**  
-- **Description:** A location-based app to locate the nearest fuel stations with filters for fuel types, services, and station categories.  
-- **Key Features:** Interactive map integration for real-time search results and navigation.
+
+- **Description:**  
+  A location-based app to locate the nearest fuel stations with filters for fuel types, services, and station categories.
+
+### 💻 Tech Stack Description  
+This project is built with:  
+- **React.js** for the frontend, featuring interactive map integration using **Leaflet.js** or **Google Maps API**.  
+- Styled with **CSS Modules** for modular and reusable styling.  
+- **Node.js** and **Express.js** for the backend, with **MongoDB** as the database.  
+- **Mongoose** for schema management, **Axios** for API communication, and **dotenv** for secure environment variable management.  
+- Development tools include **Git**, **Postman**, and **VS Code** for streamlined development workflows.
+
+- **Key Features:**  
+  - Interactive map integration for real-time search results and navigation.
+
 
 #### Demo Video:  
 [![Z Station Finder Video](https://img.youtube.com/vi/ur_nv_aKBgo/0.jpg)](https://youtu.be/ur_nv_aKBgo)  
@@ -87,4 +101,17 @@ Click the image above to watch the demo video on YouTube.
 #### Demo Video:  
 [![Mock Interview AI Demo](https://img.youtube.com/vi/_uNCPPyMwYA/0.jpg)](https://youtu.be/_uNCPPyMwYA)  
 
+---
+
+### 🏆 **Achievements**
+
+- **Azure AI Fundamentals Certifications** (Skillsoft): Gained expertise in AI concepts, principles, and Azure Data Explorer, which were applied in my AI-based projects.
+- **ISTQB® Certified Tester** - Foundation Level: Ensured quality and testing excellence in my projects.
+  
+---
+
+### 📞 **Contact Me**
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/swaroop-chandrashekar-93908b219/)  
+- **Email**: [swaroopthomasnz@gmail.com](mailto:swaroopthomasnz@gmail.com)
 
