@@ -76,14 +76,15 @@ Click the image above to watch the demo video on YouTube.
 - **Key Features:** Interactive map integration for real-time search results and navigation.
 
 #### Demo Video:  
-[![Z Station Finder Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)  
+[![Z Station Finder Video](https://img.youtube.com/vi/ur_nv_aKBgo/0.jpg)](https://youtu.be/ur_nv_aKBgo)  
 
 ---
 
 #### 💡 **[Mock Interview AI](https://github.com/swaz03/Mock-Interviewer-AI.git)**  
-- **Description:** An AI-powered platform leveraging the **Google Gemini API** to simulate mock interviews and generate dynamic follow-up questions based on user responses.  
+- **Description:** An AI-powered platform utilizing the **Google Gemini API** to simulate mock interviews, dynamically generating follow-up questions based on user responses to enhance preparation and skill-building.  
 - **Technologies:** React.js, Node.js, Google Gemini API  
 
 #### Demo Video:  
-[![Mock Interview AI Video](https://img.youtube.com/vi/eikwF9zzztc/0.jpg)](https://youtu.be/eikwF9zzztc)
+[![Mock Interview AI Demo](https://img.youtube.com/vi/_uNCPPyMwYA/0.jpg)](https://youtu.be/_uNCPPyMwYA)  
+
 
