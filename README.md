@@ -46,7 +46,8 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 
-🛠️ **My Projects**
+
+<h2>🛠️ My Projects </h2>
 
 #### [FirstTrust Chatbot Insurance Advisor](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git)  
 - A **generative AI-powered chatbot** that offers personalized **insurance policy recommendations** based on user responses.  
