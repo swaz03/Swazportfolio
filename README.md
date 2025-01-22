@@ -47,7 +47,7 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 
 ### 🛠️ **My Projects**
 
-#### [First Trust Chatbot Insurance Advisor](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git)  
+#### [FirstTrust Chatbot Insurance Advisor](https://github.com/swaz03/Insurance-Advisor-Generative-AI.git)  
 - A **generative AI-powered chatbot** that offers personalized **insurance policy recommendations** based on user responses.  
 - Utilizes **NLP** to analyze user inputs and suggest policies like **Mechanical Breakdown Insurance (MBI)**, **Comprehensive Car Insurance**, and **Third Party Car Insurance**.  
 - Built with **Node.js**, **React.js**, and **OpenAI API** for a seamless conversational experience.
@@ -59,13 +59,13 @@ I’m a passionate Full Stack Developer 🌐, Backend Developer 💻, and an ent
 Click the image above to watch the demo video on YouTube.
 
 ---
-#### 🚗 **[Turners Vehicle Recognition AI](https://github.com/swaz03/Vehicle-Recognition-AI.git)**  
+#### 🚗 **[FirstTrust Vehicle Recognition AI](https://github.com/swaz03/Vehicle-Recognition-AI.git)**  
 - **Description:** A cloud-based AI prototype to identify vehicle types from images, streamlining insurance premium calculations.  
 - **Technologies:** Azure Custom Vision, Node.js, Express, MySQL  
 - **Achievements:** Enhanced insurance processes by introducing AI automation.
 
 #### Demo Video:  
-[![Turners Vehicle Recognition AI Video](https://img.youtube.com/vi/uP0iHWnFL8k/0.jpg)](https://www.youtube.com/watch?v=uP0iHWnFL8k)
+[![FirstTrust Vehicle Recognition AI Video](https://img.youtube.com/vi/uP0iHWnFL8k/0.jpg)](https://www.youtube.com/watch?v=uP0iHWnFL8k)
 
 Click the image above to watch the demo video on YouTube.
 
